@@ -5,5 +5,6 @@
 Function: <i>round()</i><br>
 Type conversion<br>
 Importing modules<br>
-Calling classes, methods, and constants<br>
+Calling classes<br>
+Using methods and constants<br>
 <b>NOTE:</b> Because I am not an actual beginner, I opted to use the decimal module rather than a simple round function to ensure proper rounding in this context. But if I were to use the round function, I would also use :.2f to ensure rounding to 2 places even if the decimals were 0.
